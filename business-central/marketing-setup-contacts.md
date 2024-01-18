@@ -16,7 +16,7 @@ When creating contacts, you can enter specific information, such as the industry
 
 Before you create contacts and record details about your business relationships, you must set up the different codes that you will use to assign this information to your contact companies and people. Codes can be set up for mailing groups, industry groups, business relationships, Web sources, organizational levels and job responsibilities. You can set these up by choosing the **New** action as you look up to the lists from the contact card.  
 
-By having this information set up, creating contacts is much more organized and being able to find all contacts based on a certain group will be more efficient. Every group at your company will be able to find the is information making communication with the contacts more successful.
+By having this information set up, creating contacts is much more organized and being able to find all contacts based on a certain group will be more efficient. Every group at your company will be able to find the right information making communication with contacts more successful.
 
 ## To assign industry groups to a contact
 You use industry groups to indicate the type of industry to which your contacts belong, for example, the retail industry or the automobile industry.
